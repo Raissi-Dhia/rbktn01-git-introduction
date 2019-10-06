@@ -19,9 +19,7 @@ When you have answered all the questions, commit and push to your repository.
 6. What is your favorite national park or landmark?
    katkout parc .
 7. What is your favorite movie?
-   forever alone . 
-8. Are u going to be a successfull software-engineer ?
-   i hope so .. one day
+   forever alone .
 9. what is your favorite song ? 
    calvin harris- summer
 ### Advanced Content:
